@@ -6,6 +6,10 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 
 ## 📚 Solved Problems (latest first)
 
+- **vehicle-purchase**  
+  Path: `javascript/vehicle-purchase/1`  
+  Status: ✅ Completed 
+
 - **Elyse's Enchantments**  
   Path: `javascript/elyses-enchantments/1`  
   Status: ✅ Completed 
