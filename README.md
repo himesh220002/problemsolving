@@ -6,34 +6,14 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 
 ## 📚 Solved Problems (latest first)
 
-- **vehicle-purchase**  
-  Path: `javascript/vehicle-purchase/1`  
-  Status: ✅ Completed 
-
-- **Elyse's Enchantments**  
-  Path: `javascript/elyses-enchantments/1`  
-  Status: ✅ Completed 
-
-- **Annalyn's Infiltration**  
-  Path: `javascript/annalyns-infiltration/2`  
-  Status: ✅ Completed 
-
-- **Freelancer Rates**  
-  Path: `javascript/freelancer-rates/1`  
-  Status: ✅ Completed 
-
-- **Lasagna**  
-  Path: `javascript/lasagna/1`  
-  Status: ✅ Completed 
-
-- **Poetry Club Door Policy**  
-  Path: `javascript/poetry-club-door-policy/1`  
-  Status: ✅ Completed 
-
-- **Hello World**  
-  Path: `javascript/hello-world/1`  
-  Status: ✅ Completed 
-
+- **Bird-Watcher** ✅
+- **vehicle-purchase**  ✅
+- **Elyse's Enchantments**  ✅
+- **Annalyn's Infiltration**  ✅
+- **Freelancer Rates**  ✅
+- **Lasagna** ✅
+- **Poetry Club Door Policy** ✅
+- **Hello World** ✅
 ---
 
 ## 🛠️ How to Run Tests Locally
