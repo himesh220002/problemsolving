@@ -7,12 +7,14 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 
 # ✅ Solved Problems [09]
 
+|**Mixed Juice** ✅|
+|--|
 
-|**Mixed Juice** ✅| **Bird-Watcher** ✅| **Vehicle-Purchase** ✅| **Elyse's Enchantments** ✅|
+| **Bird-Watcher** ✅| **Vehicle-Purchase** ✅| **Elyse's Enchantments** ✅| **Annalyn's Infiltration** ✅|
 |--|--|--|--|
 
-| **Annalyn's Infiltration** ✅| **Freelancer Rates** ✅| **Lasagna** ✅| **Poetry Club Door Policy** ✅| **Hello World** ✅|
-|--|--|--|--|--|
+| **Freelancer Rates** ✅| **Lasagna** ✅| **Poetry Club Door Policy** ✅| **Hello World** ✅|
+|--|--|--|--|
 
 ---
 
