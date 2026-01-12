@@ -11,8 +11,9 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 | **Bird-Watcher** ✅| **Vehicle-Purchase** ✅| **Elyse's Enchantments** ✅| **Annalyn's Infiltration** ✅|
 |--|--|--|--|
 
-| **Freelancer Rates** ✅| **Lasagna** ✅| **Poetry Club Door Policy** ✅| **Hello World** ✅|
-|--|--|--|--|
+| **Freelancer Rates** ✅| **Lasagna** ✅| **Poetry Club Door Policy** ✅| **Hello World** ✅| **Mixed Juice** ✅| 
+|--|--|--|--|--|
+
 
 ---
 
