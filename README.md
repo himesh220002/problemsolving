@@ -5,10 +5,10 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 ---
 
 
-# ✅ Solved Problems [11]
+# ✅ Solved Problems [12]
 
-|**Mixed Juice** ✅| **High-score-board** ✅|**Amusement Park** ✅|
-|--|--|--|
+|**Mixed Juice** ✅| **High-score-board** ✅|**Amusement Park** ✅|**Lucky-numbers** ✅|
+|--|--|--|--|
 
 | **Bird-Watcher** ✅| **Vehicle-Purchase** ✅| **Elyse's Enchantments** ✅| **Annalyn's Infiltration** ✅|
 |--|--|--|--|
