@@ -5,7 +5,10 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 ---
 
 
-# ✅ Solved Problems [12]
+# ✅ Solved Problems [15]
+
+|**Lasagna-master* ✅| **Custom-sign** ✅|**Coordinate-Transformation** ✅|
+|--|--|--|
 
 |**Mixed Juice** ✅| **High-score-board** ✅|**Amusement Park** ✅|**Lucky-numbers** ✅|
 |--|--|--|--|
