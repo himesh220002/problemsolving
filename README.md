@@ -7,8 +7,8 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 
 # ✅ Solved Problems [15]
 
-|**Lasagna-master** ✅| **Custom-sign** ✅|**Coordinate-Transformation** ✅|
-|--|--|--|
+|**Lasagna-master** ✅| **Custom-sign** ✅|**Coordinate-Transformation** ✅|**Captails-log** ✅|
+|--|--|--|--|
 
 |**Mixed Juice** ✅| **High-score-board** ✅|**Amusement Park** ✅|**Lucky-numbers** ✅|
 |--|--|--|--|
