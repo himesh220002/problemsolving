@@ -7,6 +7,10 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 
 # ✅ Solved Problems [15]
 
+|**Fruit-picker** ✅| **Elyses Analytic** ✅|**Elyses Destructure** ✅|
+
+|--|--|--|
+
 |**Lasagna-master** ✅| **Custom-sign** ✅|**Coordinate-Transformation** ✅|**Captails-log** ✅|
 |--|--|--|--|
 
