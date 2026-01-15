@@ -5,7 +5,7 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 ---
 
 
-# ✅ Solved Problems [15]
+# ✅ Solved Problems [19]
 
 |**Fruit-picker** ✅| **Elyses Analytic** ✅|**Elyses Destructure** ✅|
 |--|--|--|
