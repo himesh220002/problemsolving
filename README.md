@@ -5,7 +5,7 @@ This repository contains my solutions to the JavaScript track problems on [Exerc
 ---
 
 
-# ✅ Solved Problems [20]
+# ✅ Solved Problems [21]
 
 |**elyses-transformative-enchantments** ✅|
 |--|
